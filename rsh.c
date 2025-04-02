@@ -15,6 +15,7 @@ int isAllowed(const char*cmd) {
 	// TODO
 	// return 1 if cmd is one of the allowed commands
 	// return 0 otherwise
+	// comment test
 	
 	return 0;
 }
